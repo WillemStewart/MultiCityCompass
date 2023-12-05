@@ -1,5 +1,5 @@
 //CityGroup.java
-package koester.lab1;
+
 public class CityGroup
 {
 
