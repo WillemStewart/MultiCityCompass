@@ -1,5 +1,5 @@
 //City.java
-package koester.lab1;
+
 public class City implements Comparable<City>
 {
       private int zipcode;
