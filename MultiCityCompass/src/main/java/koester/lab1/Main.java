@@ -1,5 +1,5 @@
 //Main.java
-package koester.lab1;
+
 import java.io.*;    // For File class and FileNotFoundException
 import java.util.*;  // For Scanner and InputMismatchException
 import javax.swing.JOptionPane; // For the JOptionPane class
